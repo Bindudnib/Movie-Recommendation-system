@@ -2,9 +2,9 @@ This project aims to build a movie recommendation system using natural language 
 
 The dataset used in this project is publicly available and contains information about various movies, including:
 
-Movie_Title: The title of the movie
-Movie_Genre: The genre of the movie
-Movie_Keywords: Keywords associated with the movie
-Movie_Tagline: The tagline of the movie
-Movie_Cast: The main cast of the movie
-Movie_Director: The director of the movie
+**Movie_Title**: The title of the movie
+**Movie_Genre**: The genre of the movie
+**Movie_Keywords**: Keywords associated with the movie
+**Movie_Tagline**: The tagline of the movie
+**Movie_Cast**: The main cast of the movie
+**Movie_Director**: The director of the movie
